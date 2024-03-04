@@ -1,0 +1,8 @@
+
+i
+java:S1104"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ
+m
+java:S1104"RMake nombre a static final constant or non-public and provide accessors if needed.(¯‰–‚úÿÿÿÿ
+o
+java:S1104"TMake apellido a static final constant or non-public and provide accessors if needed.(Üêææúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢ÿ´úÿÿÿÿ
